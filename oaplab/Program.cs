@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 
 // namespace такой же как и название проекта
-namespace oapLabaSmirnov
+namespace oapLabaSokolov
 {
     // про классы мы пока не говорили...
     class Program
